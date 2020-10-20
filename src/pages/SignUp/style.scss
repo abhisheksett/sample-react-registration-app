@@ -1,0 +1,18 @@
+.signup {
+	margin: 100px auto;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+
+	.dropdown {
+		width: 300px;
+		display: flex;
+		margin: 0 auto;
+		border: 1px solid black;
+		border-radius: 6px;
+
+		.Dropdown-control {
+			width: 100%;
+		}
+	}
+}
